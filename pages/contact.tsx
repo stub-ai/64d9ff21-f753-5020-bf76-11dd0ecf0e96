@@ -6,7 +6,8 @@ export default function Contact() {
       <Header />
       <main className="p-6">
         <h1 className="font-bold text-3xl mb-4">Contact Us</h1>
-        <p>Include a form for inquiries and a section for frequently asked questions here.</p>
+        <p>If you have any inquiries or suggestions, please fill out the form below. We also have a section for frequently asked questions.</p>
+        {/* Add the contact form and FAQ section here */}
       </main>
     </div>
   )
